@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ScreenSound": {
+      "commandName": "Project",
+      "commandLineArgs": "Teste\r\nTeste2\r\nTeste3"
+    }
+  }
+}

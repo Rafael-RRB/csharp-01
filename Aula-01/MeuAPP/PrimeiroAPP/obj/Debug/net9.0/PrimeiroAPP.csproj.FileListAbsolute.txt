@@ -1,0 +1,14 @@
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\bin\Debug\net9.0\PrimeiroAPP.exe
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\bin\Debug\net9.0\PrimeiroAPP.deps.json
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\bin\Debug\net9.0\PrimeiroAPP.runtimeconfig.json
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\bin\Debug\net9.0\PrimeiroAPP.dll
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\bin\Debug\net9.0\PrimeiroAPP.pdb
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\obj\Debug\net9.0\PrimeiroAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\obj\Debug\net9.0\PrimeiroAPP.AssemblyInfoInputs.cache
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\obj\Debug\net9.0\PrimeiroAPP.AssemblyInfo.cs
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\obj\Debug\net9.0\PrimeiroAPP.csproj.CoreCompileInputs.cache
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\obj\Debug\net9.0\PrimeiroAPP.dll
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\obj\Debug\net9.0\refint\PrimeiroAPP.dll
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\obj\Debug\net9.0\PrimeiroAPP.pdb
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\obj\Debug\net9.0\PrimeiroAPP.genruntimeconfig.cache
+C:\Users\R2\Desktop\Programação\Formações\Formação - Aprenda a programar em C# com OOP\C# - Criando sua primeira aplicação\MeuAPP\PrimeiroAPP\obj\Debug\net9.0\ref\PrimeiroAPP.dll

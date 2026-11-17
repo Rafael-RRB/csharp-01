@@ -1,0 +1,667 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\utilities\\string\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\utilities\\string\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\models\\podcasthost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\models\\podcasthost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\helpers\\translations\\songtranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\helpers\\translations\\songtranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\helpers\\translations\\persontranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\helpers\\translations\\persontranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\helpers\\translations\\episodetranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\helpers\\translations\\episodetranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\utilities\\random\\randomtimespan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\utilities\\random\\randomtimespan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\helpers\\validation\\timespanvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\helpers\\validation\\timespanvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\helpers\\validation\\stringvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\helpers\\validation\\stringvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\songduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\songduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\episodeduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\episodeduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\episodenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\episodenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\models\\podcastepisode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\models\\podcastepisode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\helpers\\translations\\podcasttranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\helpers\\translations\\podcasttranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\models\\podcastguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\models\\podcastguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\enums\\personstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\enums\\personstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\enums\\entitystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\enums\\entitystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\helpers\\translations\\entitytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\helpers\\translations\\entitytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\episodesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\episodesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\helpers\\validation\\intvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\helpers\\validation\\intvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\albumname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\albumname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\albumduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\albumduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\biography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\biography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\episodetitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\episodetitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\podcastname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\podcastname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\songtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\songtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\personname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\personname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\artistname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\artistname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\helpers\\translations\\availabilitytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\helpers\\translations\\availabilitytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\helpers\\translations\\albumtranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\helpers\\translations\\albumtranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\enums\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\enums\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\dataobjects\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\dataobjects\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|c:\\users\\r2\\desktop\\programa\u00E7\u00E3o\\forma\u00E7\u00F5es\\forma\u00E7\u00E3o - aprenda a programar em c# com oop\\c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\classes\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2693D9-4706-4932-A76F-451F8FC29F47}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\classes\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SongDuration.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\SongDuration.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\SongDuration.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\SongDuration.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\SongDuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:12:33.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StringValidation.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Validation\\StringValidation.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Helpers\\Validation\\StringValidation.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Validation\\StringValidation.cs",
+              "RelativeToolTip": "ScreenSound\\Helpers\\Validation\\StringValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:52:36.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\Models\\Entity.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\Entity.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\Models\\Entity.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:03:56.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\Album.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\Models\\Album.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAArwEUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:24:59.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EpisodeTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\EpisodeTranslation.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Helpers\\Translations\\EpisodeTranslation.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\EpisodeTranslation.cs",
+              "RelativeToolTip": "ScreenSound\\Helpers\\Translations\\EpisodeTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:05:58.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\PersonTranslation.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Helpers\\Translations\\PersonTranslation.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\PersonTranslation.cs",
+              "RelativeToolTip": "ScreenSound\\Helpers\\Translations\\PersonTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:08:13.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SongTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\SongTranslation.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Helpers\\Translations\\SongTranslation.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\SongTranslation.cs",
+              "RelativeToolTip": "ScreenSound\\Helpers\\Translations\\SongTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:07:50.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\Podcast.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\Models\\Podcast.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\Podcast.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\Models\\Podcast.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:36:55.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PodcastHost.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\PodcastHost.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\Models\\PodcastHost.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\PodcastHost.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\Models\\PodcastHost.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:54:02.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\Song.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\Models\\Song.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAWwDsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:18:47.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Program.cs",
+              "RelativeToolTip": "ScreenSound\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:05:02.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringHelper.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Utilities\\String\\StringHelper.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Utilities\\String\\StringHelper.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Utilities\\String\\StringHelper.cs",
+              "RelativeToolTip": "ScreenSound\\Utilities\\String\\StringHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:41:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimeSpanValidation.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Validation\\TimeSpanValidation.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Helpers\\Validation\\TimeSpanValidation.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Validation\\TimeSpanValidation.cs",
+              "RelativeToolTip": "ScreenSound\\Helpers\\Validation\\TimeSpanValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:14:42.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EpisodeDuration.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\EpisodeDuration.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\EpisodeDuration.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\EpisodeDuration.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\EpisodeDuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:52:05.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PodcastEpisode.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\PodcastEpisode.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\Models\\PodcastEpisode.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\PodcastEpisode.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\Models\\PodcastEpisode.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAjwFgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:45:56.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EpisodeNumber.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\EpisodeNumber.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\EpisodeNumber.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\EpisodeNumber.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\EpisodeNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:36:12.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RandomTimeSpan.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Utilities\\Random\\RandomTimeSpan.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Utilities\\Random\\RandomTimeSpan.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Utilities\\Random\\RandomTimeSpan.cs",
+              "RelativeToolTip": "ScreenSound\\Utilities\\Random\\RandomTimeSpan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T23:28:52.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PodcastTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\PodcastTranslation.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Helpers\\Translations\\PodcastTranslation.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\PodcastTranslation.cs",
+              "RelativeToolTip": "ScreenSound\\Helpers\\Translations\\PodcastTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:58:45.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PodcastGuest.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\PodcastGuest.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\Models\\PodcastGuest.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\PodcastGuest.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\Models\\PodcastGuest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:29:38.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Models\\Person.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\Models\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:36:56.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonStatus.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Enums\\PersonStatus.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\Enums\\PersonStatus.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Enums\\PersonStatus.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\Enums\\PersonStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T18:03:22.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EntityStatus.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Enums\\EntityStatus.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\Enums\\EntityStatus.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Enums\\EntityStatus.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\Enums\\EntityStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T18:21:28.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EntityTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\EntityTranslation.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Helpers\\Translations\\EntityTranslation.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\EntityTranslation.cs",
+              "RelativeToolTip": "ScreenSound\\Helpers\\Translations\\EntityTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:48:47.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EpisodeSummary.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\EpisodeSummary.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\EpisodeSummary.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\EpisodeSummary.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\EpisodeSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:53:53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Biography.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\Biography.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\Biography.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\Biography.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\Biography.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:51:29.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AlbumName.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\AlbumName.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\AlbumName.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\AlbumName.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\AlbumName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:27:43.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AlbumDuration.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\AlbumDuration.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\AlbumDuration.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\AlbumDuration.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\AlbumDuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:54:22.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IntValidation.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Validation\\IntValidation.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Helpers\\Validation\\IntValidation.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Validation\\IntValidation.cs",
+              "RelativeToolTip": "ScreenSound\\Helpers\\Validation\\IntValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:39:15.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EpisodeTitle.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\EpisodeTitle.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\EpisodeTitle.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\EpisodeTitle.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\EpisodeTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:50:03.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PodcastName.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\PodcastName.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\PodcastName.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\PodcastName.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\PodcastName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:39:52.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PersonName.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\PersonName.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\PersonName.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\PersonName.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\PersonName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:44:04.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SongTitle.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\SongTitle.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\SongTitle.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\SongTitle.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\SongTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:11:54.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AlbumTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\AlbumTranslation.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Helpers\\Translations\\AlbumTranslation.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\AlbumTranslation.cs",
+              "RelativeToolTip": "ScreenSound\\Helpers\\Translations\\AlbumTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:51:29.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AvailabilityTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\AvailabilityTranslation.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Helpers\\Translations\\AvailabilityTranslation.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Helpers\\Translations\\AvailabilityTranslation.cs",
+              "RelativeToolTip": "ScreenSound\\Helpers\\Translations\\AvailabilityTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:11:52.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ArtistName.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\ArtistName.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\ArtistName.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\ArtistName.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\ArtistName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:55:23.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Availability.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Enums\\Availability.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\Enums\\Availability.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Enums\\Availability.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\Enums\\Availability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:21:09.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\Status.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\DataObjects\\Status.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\DataObjects\\Status.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\DataObjects\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:22:56.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Enums\\Language.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Classes\\Enums\\Language.cs",
+              "ToolTip": "C:\\Users\\R2\\Desktop\\Programa\u00E7\u00E3o\\Forma\u00E7\u00F5es\\Forma\u00E7\u00E3o - Aprenda a programar em C# com OOP\\C# - Aplicando a orienta\u00E7\u00E3o a objetos\\ScreenSound\\ScreenSound\\Classes\\Enums\\Language.cs",
+              "RelativeToolTip": "ScreenSound\\Classes\\Enums\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:33:09.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
